@@ -1,0 +1,9 @@
+**.log
+!*.secret
+.gitsecret/keys/random_seed
+.credentials
+*.tfvars
+.terraform
+*.zip
+modules
+
